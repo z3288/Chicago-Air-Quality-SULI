@@ -11,5 +11,5 @@
 ### Figure 3<br>![alt text](https://github.com/z3288/Chicago-Air-Quality-SULI/blob/main/Fig3.png "Figure 3")<br>Boxplots of air quality and meteorological variables by cluster, illustrating distributions in particulate matter, gases, temperature, dewpoint, and wind components. Each cluster’s unique signature – ranging from intense smoke and smog to nocturnal and background conditions – is clearly differentiated by the position and spread of the boxes
 -----------------
 ## License
-#### This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. See [LICENSE](https://github.com/z3288/Chicago-Air-Quality-SULI/blob/main/LICENSE "License") for details.
+#### This Source Code is subject to the terms of the Mozilla Public License, v. 2.0. See [LICENSE](https://github.com/z3288/Chicago-Air-Quality-SULI/blob/main/LICENSE "License") for details.
 -----------------
