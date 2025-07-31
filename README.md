@@ -1,6 +1,8 @@
 # This repository holds the source code package from CROCUS NEIU 2023 to produce air quality and weather sensor dataset and figures
 #### *Coded by Brandon Swanson<br>Mentored by Bhupendra Raut and Joe O'Brien*
 -----------------
+### Below are some important figures produced from the Jupyter Notebook files during my appointment at Argonne National Labratory. Use the Main_cleaned.ipynb file first with both AQT and WXT sensor data in netCDF file format. Then use the plots_cleaned.ipynb with the new dataset to gain new figures.
+-----------------
 # **Important Figures**
 ### Figure 1<br>![alt text](https://github.com/z3288/Chicago-Air-Quality-SULI/blob/main/Fig1.png "Figure 1")<br>Variable treemaps for each of the five clusters, where the tile area reflects the standardized deviation of each pollutant or meteorological variable from its overall mean. The negative values are below the standard deviation and positive values are above the standard deviation
 
