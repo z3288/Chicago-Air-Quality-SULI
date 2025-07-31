@@ -1,4 +1,4 @@
-### This repository holds the source code package from CROCUS NEIU 2023 to produce air quality and weather sensor dataset and figures
+# This repository holds the source code package from CROCUS NEIU 2023 to produce air quality and weather sensor dataset and figures
 #### *Coded by Brandon Swanson<br>Mentored by Bhupendra Raut and Joe O'Brien*
 -----------------
 # **General Audience Abstract**
